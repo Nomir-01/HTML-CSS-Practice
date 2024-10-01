@@ -1,0 +1,117 @@
+.new-text {
+    font-family: arial;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(210, 161, 0);
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.mac-text {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+.super-text {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.price-text {
+    font-family: arial;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.buy-button {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: arial;
+    color: white;
+    font-size: 10px;
+    background-color: rgb(8, 137, 223);
+    border: none;
+    border-radius: 10px;
+    margin-left: 612px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+.buy-button:hover {
+    opacity: 0.8;
+}
+.buy-button:active {
+    opacity: 0.4;
+}
+.usd-text {
+    font-family: arial;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.usd-span {
+    font-family: arial;
+    font-size: 13px;
+    color: rgb(96, 96, 96) ;
+}
+.stats-text {
+    font-family: arial;
+    font-size:13px ;
+    color: rgb(0, 129, 0);
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.after-text {
+    font-family: arial;
+    font-size: 13px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 40px;
+}
+.after-span {
+    color: rgb(160, 10, 10);
+    font-family: ARIAL;
+    font-size: 13px;
+}
+.camp-text {
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.camp-span {
+    font-family: arial;
+    font-size: 15px;
+    color: rgb(96, 96, 96);
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+.state-text {
+    font-family: arial;
+    font-size: 15px;
+    width: 500px;
+    margin-top: 0;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+.promo-text {
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 0;
+}
+.promo-span {
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 0;
+    color: rgb(8, 137, 223);
+}
+.promo-span:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
